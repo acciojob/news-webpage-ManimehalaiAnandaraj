@@ -14,6 +14,9 @@
 	font-size:10px;
 	color:blue;
 }
+#h2{
+	text-align:center;
+}
 #h3{
 	text-align:center;
 }
@@ -26,7 +29,7 @@
 }
 .latest-news-section{
 	padding:10px;
-	width:100px
+	width:100px;
 	display:flex;
 	flex-direction:column;
 	text-align:center;
