@@ -9,7 +9,6 @@
 	padding:10px;
 	background-color:#011e29;
 	text-align:center;
-
 }
 #li{
 	font-size:10px;
@@ -30,6 +29,7 @@
 	width:100px
 	display:flex;
 	flex-direction:column;
+	text-align:center;
 }
 .main{
 	display:flex;
