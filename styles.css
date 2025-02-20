@@ -16,30 +16,38 @@
 }
 #h2{
 	text-align:center;
+	background-color:white;
 }
 #h3{
 	text-align:center;
+	background-color:white;
 }
 #h4{
 		text-align:center;
+	background-color:white;
 }
 #para{
 	font-size:10px;
 	text-align:center;
 	padding:10px;
+	background-color:white;
 	
 	
 }
 .latest-news-section{
 	padding:10px;
 	width:100px;
+	height:150px;
 	display:flex;
 	flex-direction:column;
+	
 	text-align:center;
+	background-color:white;
 }
 .main{
 	display:flex;
 	flex-direction:row;
+	
 }
 .pictorial-news-section{
 
@@ -49,8 +57,10 @@
 	flex-direction:column;
 	border-radius:10px;
 	text-align:center;
+	background-color:white;
 }
 .cont2{
 	padding:10px;
 	width:200px;
+	
 }
